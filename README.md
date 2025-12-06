@@ -15,6 +15,7 @@ public void Yo() {
 public void Proyectos() {
     🔹 PacketGlowAPI - API para hacer glowings personalizados en Minecraft sin usar Teams;
     🔹 Minigame - Sistema del mini juego de adivinanza de LaosOneViews Paper/Spigot;
+    🔹 InsomniaT2 - Permadeath Custom base proyecto colaborado
 }
 
 // 🛠️ Skills y herramientas
