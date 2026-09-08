@@ -2,7 +2,7 @@
 
 ```java
 @Override
-public void Yo() {
+public void me() {
     👂 My name is: Nicoswished;
     👨 Pronouns: He/Him;
     ⚡ I'm: 16 years old;
@@ -11,18 +11,18 @@ public void Yo() {
     💻 Favorite lang: Java, Kotlin & Lua;
 }
 
-// 🌟 Proyectos destacados
-public void Proyectos() {
-    🔹 PacketGlowAPI - API para hacer glowings personalizados en Minecraft sin usar Teams;
-    🔹 Minigame - Sistema del mini juego de adivinanza de LaosOneViews Paper/Spigot;
-    🔹 InsomniaT2 - Permadeath Custom base proyecto colaborado
+// 🌟 Featured Projects
+public void Projects() {
+🔹 PacketGlowAPI - API for creating custom glows in Minecraft without using Teams;
+🔹 Minigame - System for the LaosOneViews Paper/Spigot guessing minigame;
+🔹 InsomniaT2 - Permadeath Custom base collaborative project
 }
 
-// 🛠️ Skills y herramientas
+// 🛠️ Skills & tools
 public void Skills() {
-    💻 Lenguajes: Java, Kotlin, Lua, JavaScript;
+    💻 Lenguajes: Java, Kotlin, Lua, Haxe, JavaScript;
     ⚙️ Herramientas: Git, Maven, Gradle, IntelliJ IDEA, VS Code;
-    🌍 Especialidad: Plugins Paper/Spigot, Mods Fabric, mecánicas personalizadas en Minecraft;
+    🌍 Especialidad: Plugins Paper/Spigot, Mods Fabric, custom mechanics in Minecraft;
 }
 ```
 ![Followers](https://img.shields.io/github/followers/Nicoswished?style=for-the-badge)
@@ -35,7 +35,7 @@ public void Skills() {
 
 ---
 
-## ⚡ Lenguajes más usados
+## ⚡ Most used languages
 
 ![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoswished&layout=compact&theme=dark&hide_border=true)
 
