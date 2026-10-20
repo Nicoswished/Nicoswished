@@ -10,7 +10,7 @@ public:
     const char* name = "Nicoswished";
     const char* pronouns = "He/Him";
     const char* role = "Developer";
-    const char* focus = "Minecraft & Game Development";
+    const char* focus = "Minecraft & FNF Dev & and more stuff";
 
     std::vector<std::string> interests = {
         "Minecraft Plugins & Mods",
