@@ -23,16 +23,16 @@ public:
 
 ## 🚀 Featured Projects
 
-### 🔹 [PacketGlowAPI](https://github.com/Nicoswished)
+### 🔹 [PacketGlowAPI](https://github.com/Nicoswished/PacketGlowAPI)
 An API focused on creating custom entity glow effects in Minecraft without relying on scoreboard teams.
 
-### 🔹 Minigame
+### 🔹 [Minigame](https://github.com/Nicoswished/MiniGame)
 A custom guessing minigame system developed for the LaosOneViews Paper/Spigot ecosystem.
 
-### 🔹 InsomniaT2
+### 🔹 [InsomniaT2](https://github.com/Nicoswished/InsomniaT2)
 A collaborative Minecraft project featuring custom gameplay systems and permadeath mechanics.
 
-### 🔹 sportedout-windows
+### 🔹 [Transparency-Windows](https://github.com/Nicoswished/NDLL-PC-LAPTOP-FNF)
 A native Windows library for Haxe/CFFI Prime, featuring window transparency, opacity controls, taskbar utilities, and system information.
 
 ---
@@ -60,7 +60,7 @@ A native Windows library for Haxe/CFFI Prime, featuring window transparency, opa
 
 - Minecraft plugin development with Paper and Spigot
 - Fabric modding and custom game mechanics
-- Haxe development and Codename Engine
+- Haxe development and Codename Engine FNF Dev
 - Native Windows development and C/C++ interoperability
 - API design, optimization, and software experimentation
 
