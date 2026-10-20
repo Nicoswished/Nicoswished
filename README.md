@@ -15,8 +15,8 @@ public:
     std::vector<std::string> interests = {
         "Minecraft Plugins & Mods",
         "Game Engine Development",
-        "Native Libraries",
-        "Custom Game Mechanics"
+        "FNF Mods & Engine Modifier",
+        "C++/Haxe/Lua/Java/JS/Hscript"
     };
 };
 ```
